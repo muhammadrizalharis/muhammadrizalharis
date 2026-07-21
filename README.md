@@ -16,6 +16,10 @@
 
 ## <samp>NEURAL_CORE — whoami.py</samp>
 
+<table>
+<tr>
+<td valign="top">
+
 ```python
 import torch.nn as nn
 
@@ -39,6 +43,17 @@ class RizalHaris(nn.Module):
 rizal = RizalHaris()
 rizal.train()   # ⚠️ permanently stuck in training mode
 ```
+
+</td>
+<td width="300" align="center" valign="middle">
+
+<img src="https://github.com/muhammadrizalharis.png" width="240" alt="Muhammad Rizal Haris" />
+
+<sub><samp>&gt; rizal.png — loaded ✓</samp></sub>
+
+</td>
+</tr>
+</table>
 
 ```text
 ██████╗  ██████╗    ████████╗███████╗██████╗ ██████╗ ███████╗
