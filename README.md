@@ -33,9 +33,10 @@ guest@github:~$ ssh rizal@makassar.ai
 > starting consciousness.service ................. [ ACTIVE ]
 
 RIZAL-OS — Artificial Intelligence Edition
-Node     : Universitas Muhammadiyah Makassar
-Location : Makassar, Indonesia 🇮🇩
-Kernel   : neural-6.7.0-cnn | GPU: brain (overclocked) | Cache: coffee
+Kernel : neural-6.7.0-cnn | GPU: brain (overclocked) | Cache: coffee
+Status : all systems nominal
+
+rizal@makassar.ai:~$ python3 whoami.py
 ```
 
 ## <samp>⟨ 02 ⟩ NEURAL_CORE — whoami.py</samp>
