@@ -14,32 +14,7 @@
 
 </div>
 
-## <samp>⟨ 01 ⟩ BOOT_SEQUENCE.LOG</samp>
-
-```text
-guest@github:~$ ssh rizal@makassar.ai
-
-██████╗ ██╗███████╗ █████╗ ██╗          █████╗ ██╗
-██╔══██╗██║╚══███╔╝██╔══██╗██║         ██╔══██╗██║
-██████╔╝██║  ███╔╝ ███████║██║         ███████║██║
-██╔══██╗██║ ███╔╝  ██╔══██║██║         ██╔══██║██║
-██║  ██║██║███████╗██║  ██║███████╗ ██╗██║  ██║██║
-╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝ ╚═╝╚═╝  ╚═╝╚═╝
-
-> establishing encrypted uplink ██████████████████████ 100%
-> loading pretrained weights ..................... [ OK ]
-> mounting /dev/coffee ........................... [ OK ]
-> calibrating vision modules ..................... [ OK ]
-> starting consciousness.service ................. [ ACTIVE ]
-
-RIZAL-OS — Artificial Intelligence Edition
-Kernel : neural-6.7.0-cnn | GPU: brain (overclocked) | Cache: coffee
-Status : all systems nominal
-
-rizal@makassar.ai:~$ python3 whoami.py
-```
-
-## <samp>⟨ 02 ⟩ NEURAL_CORE — whoami.py</samp>
+## <samp>NEURAL_CORE — whoami.py</samp>
 
 ```python
 import torch.nn as nn
@@ -65,7 +40,18 @@ rizal = RizalHaris()
 rizal.train()   # ⚠️ permanently stuck in training mode
 ```
 
-## <samp>⟨ 03 ⟩ NEURAL_STACK</samp>
+```text
+██████╗  ██████╗    ████████╗███████╗██████╗ ██████╗ ███████╗
+██╔══██╗██╔════╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗██╔════╝
+██║  ██║██║  ███╗      ██║   █████╗  ██║  ██║██║  ██║█████╗  
+██║  ██║██║   ██║      ██║   ██╔══╝  ██║  ██║██║  ██║██╔══╝  
+██████╔╝╚██████╔╝██╗   ██║   ███████╗██████╔╝██████╔╝███████╗
+╚═════╝  ╚═════╝ ╚═╝   ╚═╝   ╚══════╝╚═════╝ ╚═════╝ ╚══════╝
+
+> mounting /dev/coffee ............ [ OK ]   ☕ mandatory daily fuel
+```
+
+## <samp>NEURAL_STACK</samp>
 
 ### 🤖 AI / Machine Learning
 
@@ -89,14 +75,14 @@ rizal.train()   # ⚠️ permanently stuck in training mode
 ![Oracle Cloud](https://img.shields.io/badge/OCI-ORACLE%20CLOUD-0D1117?style=for-the-badge&labelColor=F80000)
 ![MongoDB](https://img.shields.io/badge/MONGODB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-## <samp>⟨ 04 ⟩ AI_LAB — experiment_logs</samp>
+## <samp>AI_LAB — experiment_logs</samp>
 
 | 🧪 Experiment | 📋 Mission Log | 🛠️ Arsenal |
 |---|---|---|
 | [🧠 DeepLearningSleepGuardAI](https://github.com/muhammadrizalharis/DeepLearningSleepGuardAI) | Real-time drowsiness detection powered by CNN | Python · TensorFlow · OpenCV |
 | [⚡ UNISMUH-ComputeHub](https://github.com/muhammadrizalharis/UNISMUH-ComputeHub) | High-Performance Computing platform for Informatics | Python |
 
-## <samp>⟨ 05 ⟩ TELEMETRY — live_metrics</samp>
+## <samp>TELEMETRY — live_metrics</samp>
 
 <div align="center">
 
@@ -109,7 +95,7 @@ rizal.train()   # ⚠️ permanently stuck in training mode
 
 </div>
 
-## <samp>⟨ 06 ⟩ CONTRIBUTION_HUNTER</samp>
+## <samp>CONTRIBUTION_HUNTER</samp>
 
 <div align="center">
 
