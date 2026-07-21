@@ -23,12 +23,12 @@
 ```python
 import torch.nn as nn
 
-class RizalHaris(nn.Module):
+class MuhammadRizalHaris(nn.Module):
     """Human. Learns fast. Occasionally overfits on coffee. ☕"""
 
     def __init__(self):
         super().__init__()
-        self.alias      = "mhmmddrizal"
+        self.alias      = "icall"
         self.university = "Universitas Muhammadiyah Makassar"
         self.base       = "Makassar, Indonesia 🇮🇩"
         self.orcid      = "0009-0004-2748-8509"
