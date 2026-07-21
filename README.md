@@ -1,22 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:00F7F7,50:8A2BE2,100:FF00FF&text=MUHAMMAD%20RIZAL%20HARIS&fontSize=40&fontColor=FFFFFF&animation=twinkling&desc=AI%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Computer%20Vision&descSize=18&descAlignY=78" width="100%" />
+<img src="https://raw.githubusercontent.com/muhammadrizalharis/muhammadrizalharis/main/assets/header.svg" width="100%" alt="Muhammad Rizal Haris — Artificial Intelligence" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=AI+%26+Deep+Learning+Enthusiast;Computer+Vision+%7C+CNN+%7C+SleepGuard+AI;HPC+Platform+Builder+%40+UNISMUH;Web+%26+Unity+Game+Developer;while(alive)+%7B+learn()%3B+build()%3B+%7D)](https://github.com/muhammadrizalharis)
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=00F7F7&center=true&vCenter=true&width=650&lines=%3E+deep+learning+%C2%B7+computer+vision+%C2%B7+HPC;%3E+building+SleepGuardAI+%E2%80%94+CNN+drowsiness+detection;%3E+torch.load('rizal_haris.pt')+...+%5BOK%5D;%3E+while+alive%3A+learn()%2C+build()%2C+ship())](https://github.com/muhammadrizalharis)
 
 ![Neural Visitors](https://komarev.com/ghpvc/?username=muhammadrizalharis&label=NEURAL%20VISITORS&color=blueviolet&style=flat-square)
 [![Followers](https://img.shields.io/github/followers/muhammadrizalharis?label=FOLLOWERS&style=flat-square&logo=github&color=8A2BE2)](https://github.com/muhammadrizalharis?tab=followers)
 
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrizalharis03@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rizal-haris-411a35371/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mhmmddrizal)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--2748--8509-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-2748-8509)
+[![Gmail](https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:muhammadrizalharis03@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/muhammad-rizal-haris-411a35371/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/mhmmddrizal)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--2748--8509-0D1117?style=for-the-badge&logo=orcid&logoColor=A6CE39)](https://orcid.org/0009-0004-2748-8509)
 
 </div>
 
-## ⚡ System Boot — `whoami`
+## <samp>⟨ 01 ⟩ BOOT_SEQUENCE.LOG</samp>
+
+```text
+guest@github:~$ ssh rizal@makassar.ai
+
+██████╗ ██╗███████╗ █████╗ ██╗          █████╗ ██╗
+██╔══██╗██║╚══███╔╝██╔══██╗██║         ██╔══██╗██║
+██████╔╝██║  ███╔╝ ███████║██║         ███████║██║
+██╔══██╗██║ ███╔╝  ██╔══██║██║         ██╔══██║██║
+██║  ██║██║███████╗██║  ██║███████╗ ██╗██║  ██║██║
+╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝ ╚═╝╚═╝  ╚═╝╚═╝
+
+> establishing encrypted uplink ██████████████████████ 100%
+> loading pretrained weights ..................... [ OK ]
+> mounting /dev/coffee ........................... [ OK ]
+> calibrating vision modules ..................... [ OK ]
+> starting consciousness.service ................. [ ACTIVE ]
+
+RIZAL-OS — Artificial Intelligence Edition
+Node     : Universitas Muhammadiyah Makassar
+Location : Makassar, Indonesia 🇮🇩
+Kernel   : neural-6.7.0-cnn | GPU: brain (overclocked) | Cache: coffee
+```
+
+## <samp>⟨ 02 ⟩ NEURAL_CORE — whoami.py</samp>
 
 ```python
 import torch.nn as nn
@@ -42,18 +64,18 @@ rizal = RizalHaris()
 rizal.train()   # ⚠️ permanently stuck in training mode
 ```
 
-## 🧠 Neural Stack
+## <samp>⟨ 03 ⟩ NEURAL_STACK</samp>
 
 ### 🤖 AI / Machine Learning
 
 [![AI Stack](https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,anaconda)](https://skillicons.dev)
 
-![Keras](https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HUGGING%20FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Keras](https://img.shields.io/badge/KERAS-0D1117?style=for-the-badge&logo=keras&logoColor=D00000)
+![NumPy](https://img.shields.io/badge/NUMPY-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![Pandas](https://img.shields.io/badge/PANDAS-0D1117?style=for-the-badge&logo=pandas&logoColor=8A2BE2)
+![Jupyter](https://img.shields.io/badge/JUPYTER-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![CUDA](https://img.shields.io/badge/CUDA-0D1117?style=for-the-badge&logo=nvidia&logoColor=76B900)
+![Hugging Face](https://img.shields.io/badge/HUGGING%20FACE-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 
 ### 💻 Web & Software
 
@@ -63,7 +85,7 @@ rizal.train()   # ⚠️ permanently stuck in training mode
 
 [![Tools Stack](https://skillicons.dev/icons?i=unity,mysql,postgres,firebase,git,github,vscode,postman,figma)](https://skillicons.dev)
 
-## 🔬 AI Lab — Featured Experiments
+## <samp>⟨ 04 ⟩ AI_LAB — experiment_logs</samp>
 
 | 🧪 Experiment | 📋 Mission Log | 🛠️ Arsenal |
 |---|---|---|
@@ -71,22 +93,22 @@ rizal.train()   # ⚠️ permanently stuck in training mode
 | [⚡ UNISMUH-ComputeHub](https://github.com/muhammadrizalharis/UNISMUH-ComputeHub) | High-Performance Computing platform for Informatics | Python |
 | [🎮 Last Delivery: Courier Rush 3D](https://github.com/muhammadrizalharis/GAME-Last-Delivery-Courier-Rush-3D) | 3D courier game — every asset generated from pure code | Unity 6 · C# |
 
-## 📡 Telemetry — GitHub Analytics
+## <samp>⟨ 05 ⟩ TELEMETRY — live_metrics</samp>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadrizalharis&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadrizalharis&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadrizalharis&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrizalharis&layout=compact&theme=radical&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadrizalharis&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00f7f7&icon_color=ff00ff&text_color=e6edf3&ring_color=8a2be2" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrizalharis&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=e6edf3" height="170" />
 
-<img src="https://streak-stats.demolab.com?user=muhammadrizalharis&theme=radical&hide_border=true" height="170" />
+<img src="https://streak-stats.demolab.com?user=muhammadrizalharis&hide_border=true&background=0d1117&ring=8a2be2&fire=ff00ff&currStreakLabel=00f7f7&sideLabels=00f7f7&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&stroke=1c2a4a" height="170" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadrizalharis&bg_color=0D1117&color=00F7F7&line=8A2BE2&point=FF00FF&area=true&area_color=1a1a2e&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadrizalharis&bg_color=0d1117&color=00f7f7&line=8a2be2&point=ff00ff&area=true&area_color=1a1a2e&hide_border=true" width="100%" />
 
 </div>
 
-## 🐍 Contribution Hunter
+## <samp>⟨ 06 ⟩ CONTRIBUTION_HUNTER</samp>
 
 <div align="center">
 
@@ -98,8 +120,6 @@ rizal.train()   # ⚠️ permanently stuck in training mode
 
 <br/><br/>
 
-*« Train hard. Deploy easy. »*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,50:8A2BE2,100:FF00FF&height=120&section=footer" width="100%" />
+<img src="https://raw.githubusercontent.com/muhammadrizalharis/muhammadrizalharis/main/assets/footer.svg" width="100%" alt="train_hard() // deploy_easy()" />
 
 </div>
