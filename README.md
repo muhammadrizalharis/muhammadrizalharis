@@ -53,7 +53,7 @@ class RizalHaris(nn.Module):
         self.base       = "Makassar, Indonesia 🇮🇩"
         self.orcid      = "0009-0004-2748-8509"
         self.focus      = ["Deep Learning", "Computer Vision", "HPC"]
-        self.side_quest = ["Web Development", "Unity Game Dev"]
+        self.side_quest = ["Web Development", "Cloud Computing"]
 
     def forward(self, coffee, data):
         knowledge = self.backprop(data)        # epochs = ∞, patience = high
@@ -79,11 +79,13 @@ rizal.train()   # ⚠️ permanently stuck in training mode
 
 ### 💻 Web & Software
 
-[![Web Stack](https://skillicons.dev/icons?i=js,php,cs,html,css,laravel,react,tailwind,bootstrap,nodejs)](https://skillicons.dev)
+[![Web Stack](https://skillicons.dev/icons?i=js,php,html,css,laravel,react,tailwind,bootstrap,nodejs)](https://skillicons.dev)
 
-### 🎮 Game Dev, Data & Tools
+### 🗄️ Data & Tools
 
-[![Tools Stack](https://skillicons.dev/icons?i=unity,mysql,postgres,firebase,git,github,vscode,postman,figma)](https://skillicons.dev)
+[![Data & Tools](https://skillicons.dev/icons?i=mysql,postgres,firebase,git,github,vscode,postman,figma)](https://skillicons.dev)
+
+![Oracle Cloud](https://img.shields.io/badge/OCI-ORACLE%20CLOUD-0D1117?style=for-the-badge&labelColor=F80000)
 
 ## <samp>⟨ 04 ⟩ AI_LAB — experiment_logs</samp>
 
@@ -91,7 +93,6 @@ rizal.train()   # ⚠️ permanently stuck in training mode
 |---|---|---|
 | [🧠 DeepLearningSleepGuardAI](https://github.com/muhammadrizalharis/DeepLearningSleepGuardAI) | Real-time drowsiness detection powered by CNN | Python · TensorFlow · OpenCV |
 | [⚡ UNISMUH-ComputeHub](https://github.com/muhammadrizalharis/UNISMUH-ComputeHub) | High-Performance Computing platform for Informatics | Python |
-| [🎮 Last Delivery: Courier Rush 3D](https://github.com/muhammadrizalharis/GAME-Last-Delivery-Courier-Rush-3D) | 3D courier game — every asset generated from pure code | Unity 6 · C# |
 
 ## <samp>⟨ 05 ⟩ TELEMETRY — live_metrics</samp>
 
