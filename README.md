@@ -95,14 +95,14 @@ rizal.train()   # ⚠️ permanently stuck in training mode
 
 </div>
 
-## <samp>CONTRIBUTION_HUNTER</samp>
+## <samp>BOMBERMAN_PROTOCOL</samp>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadrizalharis/muhammadrizalharis/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadrizalharis/muhammadrizalharis/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/muhammadrizalharis/muhammadrizalharis/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadrizalharis/muhammadrizalharis/output/bomberman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadrizalharis/muhammadrizalharis/output/bomberman-contribution-graph.svg" />
+  <img alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/muhammadrizalharis/muhammadrizalharis/output/bomberman-contribution-graph-dark.svg" />
 </picture>
 
 <br/><br/>
