@@ -86,6 +86,7 @@ rizal.train()   # ⚠️ permanently stuck in training mode
 [![Data & Tools](https://skillicons.dev/icons?i=mysql,postgres,firebase,git,github,vscode,postman,figma)](https://skillicons.dev)
 
 ![Oracle Cloud](https://img.shields.io/badge/OCI-ORACLE%20CLOUD-0D1117?style=for-the-badge&labelColor=F80000)
+![MongoDB](https://img.shields.io/badge/MONGODB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 ## <samp>⟨ 04 ⟩ AI_LAB — experiment_logs</samp>
 
@@ -104,8 +105,6 @@ rizal.train()   # ⚠️ permanently stuck in training mode
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrizalharis&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=e6edf3" height="170" />
 
 <img src="https://streak-stats.demolab.com?user=muhammadrizalharis&hide_border=true&background=0d1117&ring=8a2be2&fire=ff00ff&currStreakLabel=00f7f7&sideLabels=00f7f7&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&stroke=1c2a4a" height="170" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadrizalharis&bg_color=0d1117&color=00f7f7&line=8a2be2&point=ff00ff&area=true&area_color=1a1a2e&hide_border=true" width="100%" />
 
 </div>
 
