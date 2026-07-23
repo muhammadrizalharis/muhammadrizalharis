@@ -40,20 +40,16 @@ class MuhammadRizalHaris(nn.Module):
         return self.ship(knowledge * coffee)   # deploy > perfect
 
 
-rizal = RizalHaris()
+rizal = MuhammadRizalHaris()
 rizal.train()   # ⚠️ permanently stuck in training mode
 ```
 
 </td>
 <td width="400" align="center" valign="middle">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadrizalharis/muhammadrizalharis/main/assets/ascii-portrait-dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadrizalharis/muhammadrizalharis/main/assets/ascii-portrait-light.png" />
-  <img src="https://raw.githubusercontent.com/muhammadrizalharis/muhammadrizalharis/main/assets/ascii-portrait-dark.png" width="330" alt="Muhammad Rizal Haris — ASCII portrait" />
-</picture>
+<img src="https://raw.githubusercontent.com/muhammadrizalharis/muhammadrizalharis/main/assets/portrait-scan.svg" width="340" alt="Muhammad Rizal Haris — biometric scan" />
 
-<sub><samp>&gt; rizal.png → ascii_render ✓</samp></sub>
+<sub><samp>&gt; biometric_scan.exe — identity verified ✓</samp></sub>
 
 </td>
 </tr>
