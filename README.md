@@ -28,20 +28,24 @@ class MuhammadRizalHaris(nn.Module):
 
     def __init__(self):
         super().__init__()
-        self.alias      = "icall"
+        self.alias = "mhmmddrizal"
         self.university = "Universitas Muhammadiyah Makassar"
-        self.base       = "Makassar, Indonesia 🇮🇩"
-        self.orcid      = "0009-0004-2748-8509"
-        self.focus      = ["Deep Learning", "Computer Vision", "HPC"]
-        self.side_quest = ["Web Development", "Cloud Computing"]
+        self.base = "Makassar, Indonesia ID"
+        self.portfolio = "https://muhammad-rizal-haris.vercel.app"
+        self.orcid = "0009-0004-2748-8509"
+        self.focus = ["Full-Stack Web Dev", "Deep Learning", "Computer Vision"]
+        self.side_quest = ["Cloud Computing", "HPC"]
+
+    def backprop(self, data):
+        return data
 
     def forward(self, coffee, data):
-        knowledge = self.backprop(data)        # epochs = ∞, patience = high
-        return self.ship(knowledge * coffee)   # deploy > perfect
+        knowledge = self.backprop(data)  # epochs = ∞, patience = high
+        return self.ship(knowledge * coffee)  # deploy > perfect
 
 
 rizal = MuhammadRizalHaris()
-rizal.train()   # ⚠️ permanently stuck in training mode
+rizal.train()  # ⚠️ permanently stuck in training mode
 ```
 
 </td>
