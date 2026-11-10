@@ -108,61 +108,19 @@ rizal.train()  # ⚠️ permanently stuck in training mode
 
 | 🚀 Project | 📋 Mission Log | 🛠️ Arsenal |
 |---|---|---|
-| [🎓 ICALORA-LABS](https://github.com/muhammadrizalharis/ICALORA-LABS) | Platform AI akademik serba-bisa: plagiarism checker, AI detector, paraphraser, humanizer, grammar checker, citation finder, AI grader — dengan korpus open-access legal | Python |
-| [🌌 zaltr-ai](https://github.com/muhammadrizalharis/zaltr-ai) | AI hub pribadi: Copilot Enterprise + Ollama + ComfyUI, infrastruktur Docker terisolasi | TypeScript · Docker |
-| [🛡️ UNISMUH-CodeUnical](https://github.com/muhammadrizalharis/UNISMUH-CodeUnical) | Platform ujian koding berintegritas: no-paste, eksekusi real-time, auto-grading, proctoring berlapis | JavaScript |
-| [📚 Jurnal / Riset](#-research--publications) | Publikasi & eksperimen riset AI (lihat daftar di bawah) | Jupyter · Python |
-
-### 📚 Research & Publications
-
-| 🔬 Riset | 📋 Catatan |
-|---|---|
-| [Interpretable Cluster-Aware Fuzzy Learning for On-Time Graduation](https://github.com/muhammadrizalharis/An-Interpretable-Cluster-Aware-Fuzzy-Learning-Framework-for-Predicting-On-Time-University-Graduation) | IJATEE |
-| [Forecast-Aware Carbon-Water Grid-Constrained Scheduling of AI](https://github.com/muhammadrizalharis/Forecast-Aware-Carbon-Water-Grid-Constrained-Scheduling-of-AI) | Jurnal-10 |
-| [Climate-Aware Explainable Machine Learning](https://github.com/muhammadrizalharis/Climate-Aware-Explainable-Machine-Learning-) | Jurnal-09 ICALL |
-| [Hybrid Quantum-Classical Digital Twin-Inspired](https://github.com/muhammadrizalharis/Hybrid-Quantum-Classical-Digital-Twin-Inspired-) | Jurnal-08 ICALL |
-| [UNICAL Associates Repo](https://github.com/muhammadrizalharis/UNICAL-ASSOCIATES-REPO) | Arsip & indeks jurnal/artikel ber-DOI |
+| [🎓 ICALORA-LABS](https://github.com/muhammadrizalharis/ICALORA-LABS) | Platform AI akademik serba-bisa | Python |
+| [🌌 zaltr-ai](https://github.com/muhammadrizalharis/zaltr-ai) | AI hub pribadi | TypeScript · Docker |
+| [🛡️ UNISMUH-CodeUnical](https://github.com/muhammadrizalharis/UNISMUH-CodeUnical) | Platform ujian koding berintegritas | JavaScript |
+| 📚 Jurnal & Riset | Sedang aktif meneliti & menulis jurnal ilmiah di bidang AI | Jupyter · Python |
 
 ## <samp>PROJECT_ARCHIVE — everything_i_built</samp>
 
-### 🤖 AI & HPC
-
-| Project | Deskripsi | Stack |
-|---|---|---|
-| [🎨 AXON-RYZR](https://github.com/muhammadrizalharis/AXON-RYZR) | Generative AI text-to-image & text-to-video, 100% on-premise | TypeScript |
-| [⚡ UNISMUH-ComputeHub](https://github.com/muhammadrizalharis/UNISMUH-ComputeHub) | Informatics HPC Platform | Python |
-| [🧠 DeepLearningSleepGuardAI](https://github.com/muhammadrizalharis/DeepLearningSleepGuardAI) | Real-time drowsiness detection dengan CNN | Python · TensorFlow · OpenCV |
-| [🧪 test-computehub](https://github.com/muhammadrizalharis/test-computehub) | Uji coba web ComputeHub | Jupyter |
-| [📰 FakeNewsID-FeatureEngineering](https://github.com/muhammadrizalharis/FakeNewsID-FeatureEngineering) | Feature engineering FakeNewsID (Applied ML) | Jupyter |
-| [💬 Naive Bayes vs KNN Sentiment](https://github.com/muhammadrizalharis/Comparative_Study_of_Naive_Bayes_and_KNN_for_Sentiment_Classification_Using_TF) | Klasifikasi sentimen teks edukasi dengan TF-IDF | Jupyter |
-| [📐 Final Mathematics for AI](https://github.com/muhammadrizalharis/5A_MUHAMMAD_RIZAL_HARIS_105841103223) | Tugas akhir Mathematics for AI | Python |
-| [🗣️ LAB-NLP-THE-8TH-MEETING](https://github.com/muhammadrizalharis/LAB-NLP-THE-8TH-MEETING) | Lab NLP pertemuan ke-8 | Jupyter |
-
-### 💻 Web & Mobile
-
-| Project | Deskripsi | Stack |
-|---|---|---|
-| [👤 Personal-Website](https://github.com/muhammadrizalharis/Personal-Website) | Website bio, skill, dan portfolio | TypeScript |
-| [🏆 lkbb-scoring](https://github.com/muhammadrizalharis/lkbb-scoring) | Sistem penilaian LKBB | TypeScript |
-| [📱 Statusphere](https://github.com/muhammadrizalharis/Statusphere) | Presence real-time online/offline + notifikasi | React Native · Expo · Firebase |
-| [📸 cek-foto-mahasiswa](https://github.com/muhammadrizalharis/cek-foto-mahasiswa) | Cek foto mahasiswa Unismuh via NIM | JavaScript |
-| [✨ starlight-for-you](https://github.com/muhammadrizalharis/starlight-for-you) | Web sederhana | JavaScript |
-| [📊 nextjs_dashboard_course](https://github.com/muhammadrizalharis/nextjs_dashboard_course_105841103223) | Next.js dashboard course | TypeScript · Next.js |
-| [🧪 Lab 1](https://github.com/muhammadrizalharis/Muhammad-Rizal-Haris_105841103223_Lab1) · [Lab 2](https://github.com/muhammadrizalharis/Muhammad_Rizal_Haris_105841103223_Lab2) | Tugas praktikum web | HTML · JavaScript |
-
-### 🎮 Game Dev
-
-| Project | Deskripsi | Stack |
-|---|---|---|
-| [🚚 Last Delivery: Courier Rush 3D](https://github.com/muhammadrizalharis/GAME-Last-Delivery-Courier-Rush-3D) | Game 3D kurir, aset 100% dari kode & primitif | Unity 6 · C# |
-
-### ⚙️ Algorithms & Parallel Computing
-
-| Project | Deskripsi | Stack |
-|---|---|---|
-| [🔎 Word Search Multi-File](https://github.com/muhammadrizalharis/Project_System_Distribution_of_Word_Search_Across_Multiple_Text_Files) | Pencarian kata terdistribusi dengan OpenMP | C · OpenMP |
-| [⚡ Fast Keyword Search](https://github.com/muhammadrizalharis/APLIKASI-PENCARIAN-CEPAT-KATA-KUNCI-PADA-DOKUMEN-DIGITAL-BERBASIS-STRING-MATCHING) | Pencarian kata kunci dokumen berbasis string matching | Python |
-| [🎒 Tugas1_Knapsack](https://github.com/muhammadrizalharis/Tugas1_Knapsack) | Knapsack — Desain & Analisis Algoritma | Python |
+| Kategori | Project |
+|---|---|
+| 🤖 **AI & HPC** | [AXON-RYZR](https://github.com/muhammadrizalharis/AXON-RYZR) · [UNISMUH-ComputeHub](https://github.com/muhammadrizalharis/UNISMUH-ComputeHub) · [DeepLearningSleepGuardAI](https://github.com/muhammadrizalharis/DeepLearningSleepGuardAI) · [FakeNewsID](https://github.com/muhammadrizalharis/FakeNewsID-FeatureEngineering) · [Sentiment NB vs KNN](https://github.com/muhammadrizalharis/Comparative_Study_of_Naive_Bayes_and_KNN_for_Sentiment_Classification_Using_TF) · [Mathematics for AI](https://github.com/muhammadrizalharis/5A_MUHAMMAD_RIZAL_HARIS_105841103223) · [LAB-NLP](https://github.com/muhammadrizalharis/LAB-NLP-THE-8TH-MEETING) |
+| 💻 **Web & Mobile** | [Personal-Website](https://github.com/muhammadrizalharis/Personal-Website) · [lkbb-scoring](https://github.com/muhammadrizalharis/lkbb-scoring) · [Statusphere](https://github.com/muhammadrizalharis/Statusphere) · [cek-foto-mahasiswa](https://github.com/muhammadrizalharis/cek-foto-mahasiswa) · [starlight-for-you](https://github.com/muhammadrizalharis/starlight-for-you) · [Next.js Dashboard](https://github.com/muhammadrizalharis/nextjs_dashboard_course_105841103223) |
+| 🎮 **Game Dev** | [Last Delivery: Courier Rush 3D](https://github.com/muhammadrizalharis/GAME-Last-Delivery-Courier-Rush-3D) |
+| ⚙️ **Algorithms & Parallel** | [Word Search OpenMP](https://github.com/muhammadrizalharis/Project_System_Distribution_of_Word_Search_Across_Multiple_Text_Files) · [Keyword Search](https://github.com/muhammadrizalharis/APLIKASI-PENCARIAN-CEPAT-KATA-KUNCI-PADA-DOKUMEN-DIGITAL-BERBASIS-STRING-MATCHING) · [Knapsack](https://github.com/muhammadrizalharis/Tugas1_Knapsack) |
 
 ## <samp>TELEMETRY — live_metrics</samp>
 
