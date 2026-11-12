@@ -33,7 +33,8 @@ class MuhammadRizalHaris(nn.Module):
         self.base = "Makassar, Indonesia ID"
         self.portfolio = "https://muhammad-rizal-haris.vercel.app"
         self.orcid = "0009-0004-2748-8509"
-        self.focus = ["Generative AI", "Full-Stack Web Dev", "Deep Learning", "Computer Vision", "Research"]
+        self.focus = ["Generative AI", "Full-Stack Web Dev",
+                      "Deep Learning", "Computer Vision", "Research"]
         self.side_quest = ["Cloud Computing", "HPC", "Game Dev"]
 
     def backprop(self, data):
